@@ -1,3 +1,3 @@
-Please visit my Porfolio Website
-
-<h2><a href="ketozhang.github.io">Portfolio Website</a></h2>
+<h2>Portfolio Website</h2>
+<p>Please visit my <a href="ketozhang.github.io">Portfolio Website</a>.
+</p>
